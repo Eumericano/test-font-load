@@ -43,6 +43,7 @@
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
+  font-weight: 400;
 }
 
 .title,
@@ -54,6 +55,7 @@
   margin: 4rem 0;
   line-height: 1.5;
   font-size: 1.5rem;
+  font-weight: 500;
 }
 
 .code {
@@ -77,6 +79,7 @@
   padding: 1.5rem;
   text-align: left;
   color: inherit;
+  font-weight: 600;
   text-decoration: none;
   border: 1px solid #eaeaea;
   border-radius: 10px;
